@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: flex-end;
+    background-color:#f25a70;
+    border-bottom: 10px solid #402319;
+    padding: 10px 20px;
+}
+nav{
+    text-align: right;
+}
+a{
+    display: inline-block;
+    align-items: center;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #B1D8E7;
+    text-decoration: none;
+    margin-right: 30px;
+}

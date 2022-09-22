@@ -1,0 +1,33 @@
+.wrapper-02{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.wrapper-02 .int-01{
+    width: 440px;
+    margin-bottom: 40px;
+}
+.wrapper-02 .int-01:nth-child(odd){
+    margin-right: 100px;
+}
+
+.int-01{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
+.int-01 .material-symbols-outlined{
+    margin-left: 40px;
+    margin-right: 25px;
+}
+.int-01 .rigth{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.int-01 .title{
+    margin-bottom: 5px;
+}

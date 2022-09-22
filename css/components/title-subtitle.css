@@ -1,0 +1,23 @@
+.principal-title{
+    font-size: 45px;
+    color: #000;
+    text-shadow: 4px 4px 0 #fff;
+}
+.subtitle{
+    font-size: 25px;
+    color: #000;
+    text-shadow: 4px 4px 0 #fff;
+}
+.principal-title.-second {
+    color: #fff;
+    text-shadow: none;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.sobre-mim{
+    text-align: center;
+    color:#B1D8E7 ;
+    font-size: 30px;
+    line-height: 1.3;
+}

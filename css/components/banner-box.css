@@ -1,0 +1,30 @@
+.banner{
+    box-sizing: border-box;
+    background-image: url(../../assets/img/gatinho.jpg);
+    background-repeat: no-repeat;
+    height: 904px;
+    background-size: 100%;
+    padding-top: 115px;
+    padding-left: 90px;
+    border-bottom: 10px solid #402319;
+}
+.banner .wrapper{
+    display: flex;
+    width: 630px;
+}
+.box{
+    display: inline-block;
+    width: 630px;
+    height: 184px;
+    text-align: center;
+    padding: 42px 44px;
+    border: 5px dashed rgba(0, 0, 0, 0.1);
+
+}
+.box h1{
+    margin-bottom: 28px;
+}
+.banner .wrapper{
+    display: flex;
+    width: 630px;
+}
