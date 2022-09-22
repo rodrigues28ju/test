@@ -18,7 +18,17 @@
     height: 320px;
     padding-bottom: 15px;
 }
-.btn{
-    display: flex;
-    padding-top: 10px;
+
+.enviar{
+    display:flex;
+    width: 60px;
+    height: 20px;
+    padding-left: 589px;
+    padding-top: 40px;
+    font-size: 30px;
 }
+.enviar .btn{
+    margin-top: 20px;
+
+}
+
