@@ -20,15 +20,14 @@
 }
 
 .enviar{
-    display:flex;
     width: 60px;
     height: 20px;
-    padding-left: 589px;
-    padding-top: 40px;
+    padding-left: 453px;
     font-size: 30px;
 }
 .enviar .btn{
     margin-top: 20px;
+    padding: 7px
 
 }
 
